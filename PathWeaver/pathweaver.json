@@ -1,0 +1,9 @@
+{
+  "lengthUnit": "Meter",
+  "exportUnit": "Always Meters",
+  "maxVelocity": 0.8,
+  "maxAcceleration": 0.8,
+  "trackWidth": 0.14,
+  "gameName": "2021NEFIRSTLargeField",
+  "outputDir": "../src/main/deploy"
+}
